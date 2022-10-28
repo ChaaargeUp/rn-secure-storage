@@ -1,7 +1,8 @@
 # RNSecureStorage
 
-Fork need to patch android/build.gradle to support newest gralde versions (3+)
+Fork required to patch android/build.gradle to support newest gralde versions (3+)
 To be replaced by another lib
+
 Secure Storage for React Native (Android & iOS) - Keychain & Keystore
 
 
